@@ -10,7 +10,7 @@ export const Progectss = [
   {
     name: "Apple Logo 3D",
     Tipe: "Logo",
-    imagee: "/Portfolio/Apple.png",
+    imagee: "/export/Apple.png",
     URL: "https://www.behance.net/gallery/189115545/Logo-3D",
     code: "#",
   },
