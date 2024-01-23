@@ -17,7 +17,7 @@ export const Progectss = [
   {
     name: "Logo Glossy Animation",
     Tipe: "Logo",
-    imagee: "/Portfolio/projects/Logo .png",
+    imagee: "/Portfolio/projects/Logo.png",
     URL: "https://www.behance.net/gallery/189115967/Logo",
     code: "#",
   },
