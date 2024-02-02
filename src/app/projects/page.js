@@ -58,32 +58,32 @@ export const Progectss = [
   },
   {
     name: "Video Editing",
-    Tipe: "Video Editing & Motion Graphics",
+    Tipe: "Video Editing",
     imagee: "/Portfolio/projects/A.png",
     URL: "https://www.behance.net/gallery/189497703/Video-Editing",
     code: "#",
   },
   {
     name: "Video Editing",
-    Tipe: "Video Editing & Motion Graphics",
+    Tipe: "Video Editing",
     imagee: "/Portfolio/projects/B.png",
     URL: "https://www.behance.net/gallery/189498205/Video-Editing",
     code: "#",
   },
   {
     name: "AI Movie",
-    Tipe: "Video Editing & Motion Graphics",
+    Tipe: "Video Editing",
     imagee: "/Portfolio/projects/E.png",
     URL: "https://www.behance.net/gallery/189580957/AI-Movie?",
     code: "#",
   },
-  // {
-  //   name: "Video Editor",
-  //   Tipe: "Video Editor & Motion Graphics",
-  //   imagee: "/projects/.png",
-  //   URL: "h/",
-  //   code: "#",
-  // },
+  {
+    name: "Video",
+    Tipe: "Infographic & Motion Graphics",
+    imagee: "/projects/.png",
+    URL: "h/",
+    code: "#",
+  },
 ];
 
 function Projects() {
