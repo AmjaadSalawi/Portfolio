@@ -31,7 +31,7 @@ function About() {
         </motion.h1>
         <div className="text-white/80 text-xl xl:text-lg font-extralight">
           <motion.p variants={fadeIn("up", "tween", 0.2, 1)}>
-          I am a professional graphic designer. I have experience in designing, Logos, Social Media, video editing and motion. I use some Adobe programs. Not only that, but I will provide high-quality work that will happy all my clients.
+          I am a professional graphic designer. I have experience in designing, Logos, Social Media, video editing, Annual report and motion. I use some Adobe programs. Not only that, but I will provide high-quality work that will happy all my clients.
           </motion.p>
           <br />
           <motion.p variants={fadeIn("up", "tween", 0.3, 1)}>
