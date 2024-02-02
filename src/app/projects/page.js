@@ -133,21 +133,13 @@ function Projects() {
         </p>
         <p
           className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
-            filterType === "Social Media" && "font-bold bg-white/10"
-          }`}
-          onClick={() => setFilterType("Social Media")}
-        >
-          Social Media
-        </p>
-        <p
-          className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
             filterType === "Video Editing" && "font-bold bg-white/10"
           }`}
           onClick={() => setFilterType("Video Editing")}
         >
           Video Editing
         </p>
-         <p
+        <p
           className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
             filterType === "Annual reports" && "font-bold bg-white/10"
           }`}
@@ -155,6 +147,14 @@ function Projects() {
         >
           Annual reports
         </p>
+        //  <p
+        //   className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
+        //     filterType === "Annual reports" && "font-bold bg-white/10"
+        //   }`}
+        //   onClick={() => setFilterType("Annual reports")}
+        // >
+        //   Annual reports
+        // </p>
         <p
           className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
             filterType === "Infographic & motion graphics" && "font-bold bg-white/10"
