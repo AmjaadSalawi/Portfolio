@@ -88,7 +88,6 @@ export const Progectss = [
     name: "Infographic & motion graphics",
     Tipe: "Infographic & Motion",
     URL: "https://www.behance.net/gallery/189580/AI-Movie?",
-    URL: "#",
     code: "#",
   },
 ];
