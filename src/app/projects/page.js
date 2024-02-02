@@ -8,7 +8,7 @@ import { staggerContainer, fadeIn } from "../utils/motion";
 
 export const Progectss = [
   {
-    name: "Apple Logo 3D",
+    name: "Apple Logo 3D", 
     Tipe: "Logo",
     imagee: "/Portfolio/projects/Apple.png",
     URL: "https://www.behance.net/gallery/189115545/Logo-3D",
