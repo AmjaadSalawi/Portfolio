@@ -78,10 +78,17 @@ export const Progectss = [
     code: "#",
   },
   {
+    name: "Annual reports",
+    Tipe: "  Annual reports",
+    imagee: "/projects/.png",
+    URL: "#",
+    code: "#",
+  },
+  {
     name: "Infographic & motion graphics",
     Tipe: "Infographic & Motion",
     imagee: "/projects/.png",
-    URL: "https://www.behance.net/gallery/189580957/AI-Movie?",
+    URL: "#",
     code: "#",
   },
 ];
@@ -138,7 +145,15 @@ function Projects() {
           }`}
           onClick={() => setFilterType("Video Editing")}
         >
-          Video Editin
+          Video Editing
+        </p>
+         <p
+          className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
+            filterType === "Annual reports" && "font-bold bg-white/10"
+          }`}
+          onClick={() => setFilterType("Annual reports")}
+        >
+          Annual reports
         </p>
         <p
           className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
