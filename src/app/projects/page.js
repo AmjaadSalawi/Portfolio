@@ -79,14 +79,14 @@ export const Progectss = [
   },
   {
     name: "Annual reports",
-    Tipe: "  Annual reports",
+    Tipe: "Annual reports",
     imagee: "/projects/.png",
     URL: "https://www.behance.net/gallery/1895809/AI-Movie?",
     code: "#",
   },
   {
     name: "Infographic & motion graphics",
-    Tipe: "Infographic & Motion",
+    Tipe: "Infographic & Motion graphics",
     URL: "https://www.behance.net/gallery/189580/AI-Movie?",
     code: "#",
   },
