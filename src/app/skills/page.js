@@ -3,9 +3,10 @@
 import { motion } from "framer-motion";
 import { staggerContainer, fadeIn } from "../utils/motion";
 import {
-  
-  SiAdobeillustrator,
+
   SiAdobephotoshop,
+  SiAdobeillustrator,
+  SiAdobeindesign,
   SiAdobeaftereffects,
   SiAdobepremierepro,
   SiAdobexd,
@@ -13,11 +14,12 @@ import {
 } from "react-icons/si";
 // import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
 export const ProgramS = [
-  { name: "Adobeillustrator", Experience: 85, icone: <SiAdobeillustrator /> },
-  { name: "Adobephotoshop", Experience: 93, icone: <SiAdobephotoshop /> },
-  { name: "Adobeaftereffects", Experience: 78, icone: <SiAdobeaftereffects /> },
-  { name: "Adobepremierepro", Experience: 78, icone: <SiAdobepremierepro /> },
-  { name: "Adobe xd", Experience: 80, icone: <SiAdobexd /> },
+  { name: "Photoshop", Experience: 93, icone: <SiAdobephotoshop /> },
+  { name: "Illustrator", Experience: 85, icone: <SiAdobeillustrator /> },
+  { name: "Indesign", Experience: 85, icone: <SiAdobeindesign /> },
+  { name: "Aftereffects", Experience: 78, icone: <SiAdobeaftereffects /> },
+  { name: "Premierepro", Experience: 78, icone: <SiAdobepremierepro /> },
+  { name: "XD", Experience: 80, icone: <SiAdobexd /> },
 ];
 export const Languages = [
   { name: "Arabic", Experience: 70, icone: <div>Ar</div> },
