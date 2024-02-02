@@ -35,27 +35,6 @@ export const Progectss = [
     URL: "https://www.behance.net/gallery/187716481/logo",
     code: "#",
   },
-  // {
-  //   name: "Motion Graphics Product",
-  //   Tipe: "Social Media",
-  //   imagee: "/Portfolio/projects/banner.png",
-  //   URL: "https://www.behance.net/gallery/189093183/Banner",
-  //   code: "#",
-  // },
-  // {
-  //   name: "Social Media Post",
-  //   Tipe: "Social Media",
-  //   imagee: "/Portfolio/projects/c.png",
-  //   URL: "https://www.behance.net/gallery/187715377/Social-Media",
-  //   code: "#",
-  // },
-  // {
-  //   name: "Social Media Post",
-  //   Tipe: "Social Media",
-  //   imagee: "/Portfolio/projects/d.png",
-  //   URL: "https://www.behance.net/gallery/187714419/Social-Media",
-  //   code: "#",
-  // },
   {
     name: "Video Editing",
     Tipe: "Video Editing",
@@ -147,14 +126,6 @@ function Projects() {
         >
           Annual reports
         </p>
-        //  <p
-        //   className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
-        //     filterType === "Annual reports" && "font-bold bg-white/10"
-        //   }`}
-        //   onClick={() => setFilterType("Annual reports")}
-        // >
-        //   Annual reports
-        // </p>
         <p
           className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
             filterType === "Infographic & motion graphics" && "font-bold bg-white/10"
