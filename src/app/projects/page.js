@@ -86,7 +86,7 @@ export const Progectss = [
   },
   {
     name: "Motion Graphics Product",
-    Tipe: "Social Media",
+    Tipe: "Infographic & motion graphics",
     imagee: "/Portfolio/projects/banner.png",
     URL: "https://www.behance.net/gallery/189093183/Banner",
     code: "#",
