@@ -22,7 +22,7 @@ export const ProgramS = [
   { name: "XD", Experience: 100, icone: <SiAdobexd /> },
 ];
 export const Languages = [
-  { name: "Arabic", Experience: 70, icone: <div>Ar</div> },
+  { name: "Arabic", Experience: 90, icone: <div>Ar</div> },
   { name: "English", Experience: 1, icone: <div>En</div> },
 ];
 
