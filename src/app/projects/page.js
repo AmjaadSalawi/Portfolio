@@ -78,8 +78,8 @@ export const Progectss = [
     code: "#",
   },
   {
-    name: "Video",
-    Tipe: "Infographic & Motion Graphics",
+    name: "Infographic & motion graphics",
+    Tipe: "Infographic & Motion",
     imagee: "/projects/.png",
     URL: "h/",
     code: "#",
@@ -134,19 +134,19 @@ function Projects() {
         </p>
         <p
           className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
-            filterType === "Video Editing & Motion Graphics" && "font-bold bg-white/10"
+            filterType === "Video Editing" && "font-bold bg-white/10"
           }`}
-          onClick={() => setFilterType("Video Editing & Motion Graphics")}
+          onClick={() => setFilterType("Video Editing")}
         >
-          Video Editing & Motion Graphics
+          Video Editin
         </p>
         <p
           className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
-            filterType === "Motion Graphic" && "font-bold bg-white/10"
+            filterType === "Infographic & motion graphics" && "font-bold bg-white/10"
           }`}
-          onClick={() => setFilterType("Motion Graphic")}
+          onClick={() => setFilterType("Infographic & motion graphics")}
         >
-          
+          Infographic & motion graphics
         </p>
         
       </motion.div>
