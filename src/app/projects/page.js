@@ -60,7 +60,7 @@ export const Progectss = [
     name: "Annual reports",
     Tipe: "Annual reports",
     imagee: "/projects/.png",
-    URL: "https://www.behance.net/gallery/1895809/AI-Movie?",
+    URL: "https://issuu.com/amjadsalawi98/docs/annual100_-_copy",
     code: "#",
   },
   {
