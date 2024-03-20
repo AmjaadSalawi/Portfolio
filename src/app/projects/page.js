@@ -104,11 +104,11 @@ function Projects() {
         </p>
         <p
           className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
-            filterType === "Logo" && "font-bold bg-white/10"
+            filterType === "Applications" && "font-bold bg-white/10"
           }`}
-          onClick={() => setFilterType("Logo")}
+          onClick={() => setFilterType("Applications")}
         >
-          Logo
+          Applications
         </p>
         <p
           className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
