@@ -23,13 +23,12 @@ export default function Home() {
           variants={fadeIn("up", "tween", 0.2, 1)}
           className="text-2xl xl:text-4xl text-white font-500 uppercase"
         >
-          Graphic Designer
+          Web Developer
         </motion.h1>
         <motion.p variants={fadeIn("up", "tween", 0.4, 1)}>
           Hi , I am{" "}
-          <span className="text-accent font-normal">Amjaad Salawi</span>, a
-          seasoned Graphic Designer with a passion for creative
-          problem-solving. 
+          <span className="text-accent font-normal">Amjaad Salawi</span>,a seasoned Web Developer with a passion for creative problem-solving. 
+            My expertise lies in crafting elegant and responsive web develop, where coding is not just a task but a form of artistic expression.
         </motion.p>
         <Link href={"/about"}>
           <motion.div
