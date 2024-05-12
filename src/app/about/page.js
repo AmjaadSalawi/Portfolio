@@ -32,8 +32,9 @@ function About() {
         <div className="text-white/80 text-xl xl:text-lg font-extralight">
           <motion.p variants={fadeIn("up", "tween", 0.2, 1)}>
 Web Developer with a passion for creative problem-solving. My expertise lies in crafting elegant and responsive web develop, where coding is not just a task but a form of artistic expression.
-          <br br />
+          <br />
           <motion.p variants={fadeIn("up", "tween", 0.3, 1)}>
+            <br>
             My belief is that the webpages we create are a reflection of the people who use them. As such, I am committed to enhancing user experiences worldwide, making websites more functional and enjoyable.
 
           </motion.p>
