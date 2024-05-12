@@ -31,8 +31,13 @@ function About() {
         </motion.h1>
         <div className="text-white/80 text-xl xl:text-lg font-extralight">
           <motion.p variants={fadeIn("up", "tween", 0.2, 1)}>
-          I am a professional graphic designer. I have experience in designing, Logos, Social Media, video editing, Annual report and motion. I use some Adobe programs. Not only that, but I will provide high-quality work that will happy all my clients.
-          </motion.p>
+Web Developer with a passion for creative problem-solving. My expertise lies in crafting elegant and responsive web designs, where coding is not just a task but a form of artistic expression.
+
+
+My belief is that the webpages we create are a reflection of the people who use them. As such, I am committed to enhancing user experiences worldwide, making websites more functional and enjoyable.
+
+
+With a strong foundation in Js, I bring a wealth of experience to every project. I am constantly seeking opportunities to further refine my skills and stay at the forefront of the ever-evolving world of web development.          </motion.p>
           <br />
           <motion.p variants={fadeIn("up", "tween", 0.3, 1)}>
             
