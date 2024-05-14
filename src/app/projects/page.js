@@ -104,35 +104,35 @@ function Projects() {
         </p>
         <p
           className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
-            filterType === "Logo" && "font-bold bg-white/10"
+            filterType === "Ecommerces" && "font-bold bg-white/10"
           }`}
-          onClick={() => setFilterType("Logo")}
+          onClick={() => setFilterType("Ecommerces")}
         >
-          Logo
+          Ecommerces
         </p>
         <p
           className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
-            filterType === "Video Editing" && "font-bold bg-white/10"
+            filterType === "Website" && "font-bold bg-white/10"
           }`}
-          onClick={() => setFilterType("Video Editing")}
+          onClick={() => setFilterType("Website")}
         >
-          Video Editing
+          Website
         </p>
         <p
           className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
-            filterType === "Annual reports" && "font-bold bg-white/10"
+            filterType === "Wordpress" && "font-bold bg-white/10"
           }`}
-          onClick={() => setFilterType("Annual reports")}
+          onClick={() => setFilterType("Wordpress")}
         >
-          Annual reports
+          Wordpress
         </p>
         <p
           className={`text-accent cursor-pointer hover:bg-white/10 transition-all px-4 py-1 rounded-lg ${
-            filterType === "Infographic & motion graphics" && "font-bold bg-white/10"
+            filterType === "Static" && "font-bold bg-white/10"
           }`}
-          onClick={() => setFilterType("Infographic & motion graphics")}
+          onClick={() => setFilterType("Static")}
         >
-          Infographic & motion graphics
+          Static
         </p>
         
       </motion.div>
