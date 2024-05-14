@@ -3,7 +3,6 @@
 import { motion } from "framer-motion";
 import { staggerContainer, fadeIn } from "../utils/motion";
 import {
-
   SiHtml5,
   SiCss3,
   SiJavascript,
