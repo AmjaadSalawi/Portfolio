@@ -9,28 +9,28 @@ import { staggerContainer, fadeIn } from "../utils/motion";
 export const Progectss = [
   {
     name: "Apple Logo 3D", 
-    Tipe: "Logo",
+    Tipe: "Ecommerces",
     imagee: "/Portfolio/projects/Apple.png",
     URL: "https://www.behance.net/gallery/189115545/Logo-3D",
     code: "#", 
   },
   {
     name: "Logo Glossy Animation",
-    Tipe: "Logo",
+    Tipe: "Ecommerces",
     imagee: "/Portfolio/projects/Logo .png",
     URL: "https://www.behance.net/gallery/189115967/Logo",
     code: "#",
   },
   {
     name: "Logo MSC",
-    Tipe: "Logo",
+    Tipe: "Ecommerces",
     imagee: "/Portfolio/projects/logo.png",
     URL: "https://www.behance.net/gallery/187714175/logo-25",
     code: "#",
   },
   {
     name: "Logo VM",
-    Tipe: "Logo",
+    Tipe: "Ecommerces",
     imagee: "/Portfolio/projects/VM.png",
     URL: "https://www.behance.net/gallery/187716481/logo",
     code: "#",
