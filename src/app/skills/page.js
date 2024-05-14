@@ -9,6 +9,7 @@ import {
   SiPhp,
   SiMysql,
   SiWordpress,
+  
 } from "react-icons/si";
 // import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
 export const ProgramS = [
