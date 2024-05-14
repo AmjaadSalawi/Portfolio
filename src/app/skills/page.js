@@ -7,7 +7,6 @@ import {
   SiHtml5,
   SiCss3,
   SiJavascript,
-  SiBootstrap,
   SiPhp,
   SiMysql,
   SiWordpress,
@@ -15,10 +14,9 @@ import {
 } from "react-icons/si";
 // import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
 export const ProgramS = [
-   { name: "Html", Experience: 100, icone: <SiHtml5 /> },
+  { name: "Html", Experience: 100, icone: <SiHtml5 /> },
   { name: "Css", Experience: 100, icone: <SiCss3 /> },
   { name: "JavaScript", Experience: 100, icone: <SiJavascript /> },
-  { name: "Bootstrap", Experience: 100, icone: <SiBootstrap/> },
   { name: "PHP", Experience: 100, icone: <SiPhp /> },
   { name: "Mysql", Experience: 100, icone: <SiMysql /> },
   { name: "WordPress", Experience: 100, icone: <SiWordpress /> },
