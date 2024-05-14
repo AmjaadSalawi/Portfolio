@@ -4,26 +4,28 @@ import { motion } from "framer-motion";
 import { staggerContainer, fadeIn } from "../utils/motion";
 import {
 
-  SiAdobephotoshop,
-  SiAdobeillustrator,
-  SiAdobeindesign,
-  SiAdobeaftereffects,
-  SiAdobepremierepro,
-  SiAdobexd,
+  SiHtml5,
+  SiCss3,
+  SiJavascript,
+  SiBootstrap,
+  SiPhp,
+  SiMysql,
+  SiWordpress,
 
 } from "react-icons/si";
 // import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
 export const ProgramS = [
-  { name: "Photoshop", Experience: 100, icone: <SiAdobephotoshop /> },
-  { name: "Illustrator", Experience: 100, icone: <SiAdobeillustrator /> },
-  { name: "Indesign", Experience: 100, icone: <SiAdobeindesign /> },
-  { name: "Aftereffects", Experience: 100, icone: <SiAdobeaftereffects /> },
-  { name: "Premierepro", Experience: 100, icone: <SiAdobepremierepro /> },
-  { name: "XD", Experience: 100, icone: <SiAdobexd /> },
+   { name: "Html", Experience: 100, icone: <SiHtml5 /> },
+  { name: "Css", Experience: 100, icone: <SiCss3 /> },
+  { name: "JavaScript", Experience: 100, icone: <SiJavascript /> },
+  { name: "Bootstrap", Experience: 100, icone: <SiBootstrap/> },
+  { name: "PHP", Experience: 100, icone: <SiPhp /> },
+  { name: "Mysql", Experience: 100, icone: <SiMysql /> },
+  { name: "WordPress", Experience: 100, icone: <SiWordpress /> },
 ];
 export const Languages = [
-  { name: "Arabic", Experience: 90, icone: <div>Ar</div> },
-  { name: "English", Experience: 1, icone: <div>En</div> },
+  { name: "Arabic", Experience: 100, icone: <div>Ar</div> },
+  { name: "English", Experience: 100, icone: <div>En</div> },
 ];
 
 function Skills() {
