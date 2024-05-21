@@ -7,7 +7,6 @@ import {
   SiCss3,
   SiJavascript,
   SiPhp,
-  SiMysql,
   SiWordpress
   
 } from "react-icons/si";
@@ -17,7 +16,6 @@ export const ProgramS = [
   { name: "Css", Experience: 100, icone: <SiCss3 /> },
   { name: "JavaScript", Experience: 100, icone: <SiJavascript /> },
   { name: "PHP", Experience: 100, icone: <SiPhp /> },
-  { name: "Mysql", Experience: 100, icone: <SiMysql /> },
   { name: "WordPress", Experience: 100, icone: <SiWordpress /> },
 ];
 export const Languages = [
