@@ -10,7 +10,7 @@ import {
   SiWordpress,
   
 } from "react-icons/si";
-import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
+// import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
 export const ProgramS = [
   { name: "Html", Experience: 100, icone: <SiHtml5 /> },
   { name: "Css", Experience: 100, icone: <SiCss3 /> },
