@@ -7,7 +7,7 @@ import {
   SiCss3,
   SiJavascript,
   SiPhp,
-  SiWordpress
+  SiWordpress,
   
 } from "react-icons/si";
 import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
