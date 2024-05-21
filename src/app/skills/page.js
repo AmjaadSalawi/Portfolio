@@ -3,20 +3,20 @@
 import { motion } from "framer-motion";
 import { staggerContainer, fadeIn } from "../utils/motion";
 import {
-  SiHtml5,
-  SiCss3,
-  SiJavascript,
-  SiPhp,
-  SiWordpress,
+  siHtml5,
+  siCss3,
+  siJavascript,
+  siPhp,
+  siWordpress,
   
 } from "react-icons/si";
 // import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
 export const ProgramS = [
-  { name: "Html", Experience: 100, icone: <SiHtml5 /> },
-  { name: "Css", Experience: 100, icone: <SiCss3 /> },
-  { name: "JavaScript", Experience: 100, icone: <SiJavascript /> },
-  { name: "PHP", Experience: 100, icone: <SiPhp /> },
-  { name: "WordPress", Experience: 100, icone: <SiWordpress /> },
+  { name: "Html", Experience: 100, icone: <siHtml5 /> },
+  { name: "Css", Experience: 100, icone: <siCss3 /> },
+  { name: "JavaScript", Experience: 100, icone: <siJavascript /> },
+  { name: "PHP", Experience: 100, icone: <siPhp /> },
+  { name: "WordPress", Experience: 100, icone: <siWordpress /> },
 ];
 export const Languages = [
   { name: "Arabic", Experience: 100, icone: <div>Ar</div> },
