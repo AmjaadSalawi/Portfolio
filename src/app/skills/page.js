@@ -7,7 +7,7 @@ import {
   SiCss3,
   SiJavascript,
   SiPhp,
-  SiWordpress,
+  SiPhotoshop,
   
 } from "react-icons/si";
 // import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
@@ -16,7 +16,7 @@ export const ProgramS = [
   { name: "Css", Experience: 100, icone: <SiCss3 /> },
   { name: "JavaScript", Experience: 100, icone: <SiJavascript /> },
   { name: "PHP", Experience: 100, icone: <SiPhp /> },
-  { name: "WordPress", Experience: 100, icone: <SiWordpress /> },
+  { name: "Photoshop", Experience: 100, icone: <SiPhotoshop /> },
 ];
 export const Languages = [
   { name: "Arabic", Experience: 100, icone: <div>Ar</div> },
