@@ -13,12 +13,12 @@ import {
 } from "react-icons/si";
 // import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
 export const ProgramS = [
-  { name: "Photoshop", Experience: 100, icone: <SiAdobephotoshop /> },
+  { name: "Photoshop", Experience: 80, icone: <SiAdobephotoshop /> },
   { name: "Illustrator", Experience: 100, icone: <SiAdobeillustrator /> },
   { name: "Indesign", Experience: 100, icone: <SiAdobeindesign /> },
   { name: "Aftereffects", Experience: 100, icone: <SiAdobeaftereffects /> },
-  { name: "Premierepro", Experience: 100, icone: <SiAdobepremierepro /> },
-  { name: "XD", Experience: 100, icone: <SiAdobexd /> },
+  { name: "Premierepro", Experience: 60, icone: <SiAdobepremierepro /> },
+  { name: "XD", Experience: 90, icone: <SiAdobexd /> },
 ];
 export const Languages = [
   { name: "Arabic", Experience: 90, icone: <div>Ar</div> },
