@@ -23,7 +23,7 @@ export default function Home() {
           variants={fadeIn("up", "tween", 0.2, 1)}
           className="text-2xl xl:text-4xl text-white font-500 uppercase"
         >
-          Web Developer
+          Graphic Designer
         </motion.h1>
         <motion.p variants={fadeIn("up", "tween", 0.4, 1)}>
           Hi , I am{" "}
