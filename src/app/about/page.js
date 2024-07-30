@@ -31,17 +31,16 @@ function About() {
         </motion.h1>
         <div className="text-white/80 text-xl xl:text-lg font-extralight">
           <motion.p variants={fadeIn("up", "tween", 0.2, 1)}>
-Web Developer with a passion for creative problem-solving. My expertise lies in crafting elegant and responsive web develop, where coding is not just a task but a form of artistic expression.
+Graphic Designer with a passion for creative problem-solving.
           <br />
           <motion.p variants={fadeIn("up", "tween", 0.3, 1)}>
             <br>
-            My belief is that the webpages we create are a reflection of the people who use them. As such, I am committed to enhancing user experiences worldwide, making websites more functional and enjoyable.
+            // My belief is that the webpages we create are a reflection of the people who use them. As such, I am committed to enhancing user experiences worldwide, making websites more functional and enjoyable.
 
           </motion.p>
           <br />
           <motion.p variants={fadeIn("up", "tween", 0.4, 1)}>
-            With a strong foundation in Js, I bring a wealth of experience to every project. I am constantly seeking opportunities to further refine my skills and stay at the forefront of the ever-evolving world of web development.          </motion.p>
-          </motion.p>
+          I am constantly seeking opportunities to further refine my skills and stay at the forefront of the ever-evolving world of Graphic Designer            </motion.p>
         </div>
         <div className=" flex gap-x-4 gap-y-3 flex-col xl:flex-row xl:mr-[-90px] pt-5 xl:pt-0">
           <motion.div
