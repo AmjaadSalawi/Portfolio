@@ -14,10 +14,8 @@ import {
 // import { SiNextdotjs, SiTailwindcss } from "react-icons/si";
 export const ProgramS = [
   { name: "Photoshop", Experience: 80, icone: <SiAdobephotoshop /> },
-  { name: "Illustrator", Experience: 100, icone: <SiAdobeillustrator /> },
-  { name: "Indesign", Experience: 100, icone: <SiAdobeindesign /> },
-  { name: "Aftereffects", Experience: 100, icone: <SiAdobeaftereffects /> },
-  { name: "Premierepro", Experience: 60, icone: <SiAdobepremierepro /> },
+  { name: "Illustrator", Experience: 80, icone: <SiAdobeillustrator /> },
+  { name: "Indesign", Experience: 70, icone: <SiAdobeindesign /> },
   { name: "XD", Experience: 90, icone: <SiAdobexd /> },
 ];
 export const Languages = [
