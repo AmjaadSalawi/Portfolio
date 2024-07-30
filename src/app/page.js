@@ -27,8 +27,7 @@ export default function Home() {
         </motion.h1>
         <motion.p variants={fadeIn("up", "tween", 0.4, 1)}>
           Hi , I am{" "}
-          <span className="text-accent font-normal">Amjaad Salawi</span>,a seasoned Web Developer with a passion for creative problem-solving. 
-            My expertise lies in crafting elegant and responsive web develop, where coding is not just a task but a form of artistic expression.
+          <span className="text-accent font-normal">Amjaad Salawi</span>,a seasoned Graphic Designer with a passion for creative problem-solving. 
         </motion.p>
         <Link href={"/about"}>
           <motion.div
